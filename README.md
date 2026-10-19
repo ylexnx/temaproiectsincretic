@@ -1,0 +1,2 @@
+# temaproiectsincretic
+LCD si temperatura
